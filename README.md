@@ -5,4 +5,7 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users 
 
 - Upload and process PDF documents
 - Semantic document retrieval using vector embeddings
+- - Context-aware question answering
+- Conversational chat history management
+- User-friendly Streamlit interface
 
