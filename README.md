@@ -20,3 +20,7 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users 
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
 
+## Key Concepts Demonstrated
+
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
