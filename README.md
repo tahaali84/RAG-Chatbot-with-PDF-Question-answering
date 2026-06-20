@@ -24,3 +24,5 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users 
 
 - Retrieval-Augmented Generation (RAG)
 - Semantic Search
+- - Vector Databases
+- Document Question Answering
