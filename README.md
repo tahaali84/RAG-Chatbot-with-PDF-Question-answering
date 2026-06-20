@@ -17,4 +17,6 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users 
 - Groq API
 - HuggingFace Embeddings
 - FAISS Vector Store
+- - Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
 
