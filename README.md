@@ -14,7 +14,7 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users 
 - Python
 - Streamlit
 - LangChain
-- - Groq API
+- Groq API
 - HuggingFace Embeddings
 - FAISS Vector Store
 
