@@ -9,3 +9,9 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users 
 - Conversational chat history management
 - User-friendly Streamlit interface
 
+## Tech Stack
+
+- Python
+- Streamlit
+- LangChain
+
