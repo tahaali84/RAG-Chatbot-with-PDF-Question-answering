@@ -26,6 +26,6 @@ A Conversational Retrieval-Augmented Generation (RAG) chatbot that allows users 
 - Semantic Search
 - Vector Databases
 - Document Question Answering
-- - Prompt Engineering
+- Prompt Engineering
 - Conversational AI
 - LLM Integration
